@@ -1,0 +1,6 @@
+2022-03-11T08:50:14+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 26
+
+2022-03-11T08:50:15+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 26
+
+2022-03-11T09:25:11+00:00 CRITICAL syntax error, unexpected '}' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/template-parts/content-review.php on line 23
+

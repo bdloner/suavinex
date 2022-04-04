@@ -1,0 +1,16 @@
+/*
+Font Name: Maledpan
+Weights: 400, 700
+*/
+@font-face {
+  font-family: "Maledpan";
+  src: url("maledpan.woff2") format("woff2"), url("maledpan.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Maledpan";
+  src: url("maledpan-bold.woff2") format("woff2"), url("maledpan-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}

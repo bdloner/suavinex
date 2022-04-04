@@ -1,0 +1,32 @@
+2022-03-20T14:31:41+00:00 CRITICAL syntax error, unexpected '&' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 161
+
+2022-03-20T14:31:42+00:00 CRITICAL syntax error, unexpected '&' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 161
+
+2022-03-20T14:32:56+00:00 CRITICAL syntax error, unexpected end of file in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 190
+
+2022-03-20T14:32:57+00:00 CRITICAL syntax error, unexpected end of file in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 190
+
+2022-03-20T14:32:58+00:00 CRITICAL syntax error, unexpected end of file in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 190
+
+2022-03-20T14:32:59+00:00 CRITICAL syntax error, unexpected end of file in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 190
+
+2022-03-20T14:43:27+00:00 CRITICAL Uncaught Error: Call to undefined function astra_woo_product_in_stock() in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php:159
+Stack trace:
+#0 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/class-wp-hook.php(307): paulc_add_stock_html('')
+#1 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/woocommerce/content-single-product.php(61): do_action('woocommerce_sin...')
+#4 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/template.php(772): require('/Users/boatyt/L...')
+#5 /Users/boatyt/Local Sites/suavinex/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/boatyt/L...', false)
+#6 /Users/boatyt/Local Sites/suavinex/app/public/wp-content/plugins/woocommerce/includes/wc-te in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 159
+
+2022-03-20T14:43:45+00:00 CRITICAL Uncaught Error: Call to undefined function astra_woo_product_in_stock() in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php:158
+Stack trace:
+#0 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/class-wp-hook.php(307): paulc_add_stock_html('')
+#1 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/woocommerce/content-single-product.php(61): do_action('woocommerce_sin...')
+#4 /Users/boatyt/Local Sites/suavinex/app/public/wp-includes/template.php(772): require('/Users/boatyt/L...')
+#5 /Users/boatyt/Local Sites/suavinex/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template('/Users/boatyt/L...', false)
+#6 /Users/boatyt/Local Sites/suavinex/app/public/wp-content/plugins/woocommerce/includes/wc-te in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 158
+

@@ -1,0 +1,41 @@
+{
+    "key": "group_622ad76505ec3",
+    "title": "Link Video",
+    "fields": [
+        {
+            "key": "field_622ad77adac68",
+            "label": "Embed Video",
+            "name": "embed_video",
+            "type": "oembed",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "width": 250,
+            "height": 150
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product-reviews"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "side",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1646990544
+}

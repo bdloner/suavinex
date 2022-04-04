@@ -1,0 +1,24 @@
+/*
+Theme Name: Plant
+Theme URI: https://seedwebs.com/package/plant/
+Author: Seed Webs
+Author URI: https://seedwebs.com
+Description: General Purpose Theme
+Version: 2.4.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: plant
+Tags: featured-images, custom-menu
+*/
+
+/*
+===========================================
+
+This theme use SCSS, please check
+
+1. css/scss/_variables.scss - for some colors & styles.
+2. css/scss/mobile.scss - will be compiled to css/mobile.css and used for mobile version.
+3. css/scss/desktop.scss - will be compiled to css/desktop.css and used for desktop version.
+    
+=========================================== 
+*/

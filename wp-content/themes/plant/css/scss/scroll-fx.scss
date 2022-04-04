@@ -1,0 +1,25 @@
+/* ENTRY CONTENT - SCROLL FX */
+body.scroll-fx-auto {
+  .entry-content > *,
+  :not(.slider) > .content-item,
+  .gb-grid-column {
+    transform: translateY(90px);
+    opacity: 0;
+    transition: 1s;
+    &.-sh {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}
+body.scroll-fx-class {
+  .s-fx {
+    transform: translateY(90px);
+    opacity: 0;
+    transition: 1s;
+    &.-sh {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}

@@ -1,0 +1,4 @@
+2022-03-12T08:21:25+00:00 CRITICAL syntax error, unexpected '<' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/single-product-reviews.php on line 122
+
+2022-03-12T12:57:10+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/single-product-reviews.php on line 203
+

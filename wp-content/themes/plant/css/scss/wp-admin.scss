@@ -1,0 +1,54 @@
+#customize-theme-controls
+  .customize-control-kirki-dimensions
+  .wrapper
+  .control
+  > div
+  h5 {
+  margin-top: 0;
+}
+#wp-admin-bar-wp-logo,
+#n2-ss-activate-license-banner,
+#wpwrap .n2-box-template-library,
+#wpwrap .n2-box-add-sample-slide {
+  display: none;
+}
+
+#nextend-smart-slider3-pro-update .update-message p {
+  &:after {
+    content: "wait for monthly update from Plant theme.";
+    display: inline-block;
+    margin-left: -4px;
+    background-color: #06c0c0;
+    padding: 1px 5px;
+    color: #fff;
+    html:lang(th) & {
+      margin-left: 0;
+      content: "รอการอัปเดตธีม Plant รายเดือน";
+    }
+  }
+  a:last-child {
+    display: none;
+  }
+}
+
+.wp-picker-container .wp-color-result.button,
+.customize-control-kirki-multicolor .wp-picker-container > .wp-color-result {
+  min-height: 24px;
+}
+.dashicons {
+  font-family: dashicons !important;
+}
+
+.acf-field {
+  &.-border {
+    position: relative;
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: -1px;
+      left: -1px;
+      right: -1px;
+      border-bottom: 1px solid #eee;
+    }
+  }
+}

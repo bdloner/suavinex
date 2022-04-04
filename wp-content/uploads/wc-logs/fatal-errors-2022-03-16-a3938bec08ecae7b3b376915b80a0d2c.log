@@ -1,0 +1,8 @@
+2022-03-16T07:43:04+00:00 CRITICAL syntax error, unexpected ')' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/woocommerce.php on line 53
+
+2022-03-16T09:09:11+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ':' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/woocommerce.php on line 27
+
+2022-03-16T11:25:57+00:00 CRITICAL syntax error, unexpected end of file in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 195
+
+2022-03-16T11:33:01+00:00 CRITICAL syntax error, unexpected '.' in /Users/boatyt/Local Sites/suavinex/app/public/wp-content/themes/fruit/functions.php on line 180
+
